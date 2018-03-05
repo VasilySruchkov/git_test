@@ -1,2 +1,5 @@
 print ('Hello, world')
 print ('Hello again')
+a = 1
+b = 1
+print (a +b)
